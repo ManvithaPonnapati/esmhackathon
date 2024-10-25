@@ -34,6 +34,8 @@ We then used [UniProt](uniprot.org) to obtain all the protein sequences of the t
 
 Information about models and designing new TFs can be found on [github][https://github.com/blyncha/evolved24hack/tree/main]
 
+## References
+
 1 Deisseroth, K. Optogenetics: 10 years of microbial opsins in neuroscience. Nat Neurosci 18, 1213–1225 (2015). https://doi.org/10.1038/nn.4091
 
 2 Song J, Patel RV, Sharif M, Ashokan A, Michaelides M. Chemogenetics as a neuromodulatory approach to treating neuropsychiatric diseases and disorders. Mol Ther. 2022 Mar 2;30(3):990-1005. doi: 10.1016/j.ymthe.2021.11.019. Epub 2021 Dec 1. PMID: 34861415; PMCID: PMC8899595.
