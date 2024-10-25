@@ -15,6 +15,13 @@ We focused on mice neuronal cells during the hackathon. To enable generation of 
 3. Transcription factors in mice and their corresponding protein sequences
 4. Transcription factors that are known to effect gene expression in neuronal cell types in mice
 
-Obtaining data is required gathering datasets from various studies and databases, and linking them together. We hope this dataset is valuable beyond this hackathon.
+Obtaining data is required gathering datasets from various studies and databases, and linking them together. We hope this dataset is valuable beyond this hackathon. 
 
-![Image Description](gene_trimmed.csv)
+We obtained a list of genes and their RNA-Seq Data from [Allen Brain Map](http://portal.brain-map.org/atlases-and-data/rnaseq), gene expression aggregated per cell type is shown below. 
+
+<p align="center">
+  <img src="genes_trimmed.png" alt="gene expression aggregated per cell type" width="600">
+</p>
+
+
+
