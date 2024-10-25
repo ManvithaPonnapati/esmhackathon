@@ -22,6 +22,7 @@ We obtained a list of genes and their RNA-Seq Data from [Allen Brain Map](http:/
 <p align="center">
   <img src="genes_trimmed.png" alt="gene expression aggregated per cell type" width="600">
 </p>
+We then used [UCSC Genome Browser]([uniprot.org](https://genome.ucsc.edu/cgi-bin/hgTables)) to obtain all the promoter sequences and the corresponding CDS regions of the gene. All of them are from mm10 as reference. The dataset is available [here](https://drive.google.com/drive/folders/1U3-Ar7Nz6EYM4RUOly1jPoilCHqzOT4k?usp=share_link) 
 
 We utilized [4] to obtain mouse transcription factors by tissue type. And also found differential expression of various TFs in mice by tissue from [4], we selected top N candidates in our computational experiments downstream. 
 
@@ -29,6 +30,7 @@ We utilized [4] to obtain mouse transcription factors by tissue type. And also f
   <img src="tfs.png" alt="gene expression aggregated per cell type" width="600">
 </p>
 
+We then used [UniProt](uniprot.org) to obtain all the protein sequences of the transcription factors. The dataset is available [here](https://drive.google.com/drive/folders/1U3-Ar7Nz6EYM4RUOly1jPoilCHqzOT4k?usp=share_link) 
 
 
 
