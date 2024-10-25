@@ -34,6 +34,31 @@ We then used [UniProt](uniprot.org) to obtain all the protein sequences of the t
 
 Information about models and designing new TFs can be found on [github][https://github.com/blyncha/evolved24hack/tree/main]
 
+
+We also utilized PaperQA to obtain information about TFs in neuronal cells in mice in the literature. [5]
+
+| Transcription Factor | Study                        |
+|----------------------|-----------------------------|
+| CREB                 | Lonze2002Function            |
+| CREM                 | Lonze2002Function            |
+| ATF-1                | Lonze2002Function            |
+| NeuroD1              | Niklison-Chirou2020Regulation |
+| Prox1                | Niklison-Chirou2020Regulation |
+| Sox3                 | Niklison-Chirou2020Regulation |
+| Sox11                | Niklison-Chirou2020Regulation |
+| FoxG1                | Niklison-Chirou2020Regulation |
+| p53                  | Niklison-Chirou2020Regulation |
+| p63                  | Niklison-Chirou2020Regulation |
+| p73                  | Niklison-Chirou2020Regulation |
+| Sox2                 | Niklison-Chirou2020Regulation |
+| Pax6                 | Niklison-Chirou2020Regulation |
+| Ngn2                 | Niklison-Chirou2020Regulation |
+| REST/NRSF            | Niklison-Chirou2020Regulation |
+| NF-κB                | Engelmann2016Transcriptional |
+| Runx1                | Inoue2008Runx                |
+| Runx3                | Inoue2008Runx                |
+
+
 ## References
 
 1 Deisseroth, K. Optogenetics: 10 years of microbial opsins in neuroscience. Nat Neurosci 18, 1213–1225 (2015). https://doi.org/10.1038/nn.4091
@@ -43,3 +68,5 @@ Information about models and designing new TFs can be found on [github][https://
 3 Reddy AJ, Geng X, Herschl MH, Kolli S, Kumar A, Hsu PD, Levine S, Ioannidis NM. Designing Cell-Type-Specific Promoter Sequences Using Conservative Model-Based Optimization. bioRxiv [Preprint]. 2024 Jun 23:2024.06.23.600232. doi: 10.1101/2024.06.23.600232. PMID: 38948874; PMCID: PMC11213138.
 
 4 Zhou, Q., Liu, M., Xia, X. et al. A mouse tissue transcription factor atlas. Nat Commun 8, 15089 (2017). https://doi.org/10.1038/ncomms15089
+
+5 Skarlinski, M. D., Cox, S., Laurent, J. M., Braza, J. D., Hinks, M., Hammerling, M. J., Ponnapati, M., Rodriques, S. G., & White, A. D. (2024). Language agents achieve superhuman synthesis of scientific knowledge. arXiv preprint arXiv:2409.13740. https://doi.org/10.48550/arXiv.2409.13740.
