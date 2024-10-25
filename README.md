@@ -23,5 +23,14 @@ We obtained a list of genes and their RNA-Seq Data from [Allen Brain Map](http:/
   <img src="genes_trimmed.png" alt="gene expression aggregated per cell type" width="600">
 </p>
 
+We utilized [4] to obtain mouse transcription factors by tissue type. And also found differential expression of various TFs in mice by tissue from [4], we selected top N candidates in our computational experiments downstream. 
+
+<p align="center">
+  <img src="tfs.png" alt="gene expression aggregated per cell type" width="600">
+</p>
 
 
+
+
+
+4 Zhou, Q., Liu, M., Xia, X. et al. A mouse tissue transcription factor atlas. Nat Commun 8, 15089 (2017). https://doi.org/10.1038/ncomms15089
