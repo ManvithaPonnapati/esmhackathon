@@ -1,6 +1,6 @@
 ## Introduction
 
-Ectopic expression of proteins can endow cells with new capabilities, such as rendering neurons photosensitive by expressing opsins, which allows for optical control in techniques like optogenetics [1]. Optogenetics, along with related methods such as chemogenetics and sonogenetics, has revolutionized neuroscience and holds great potential for neuromodulatory therapies targeting neurological disorders [2]. The ability to selectively express opsins in specific neuronal cell types can enable precise and efficient optogenetic manipulation.
+Ectopic expression of proteins can endow cells with new capabilities, such as rendering neurons photosensitive by expressing opsins, which allows for optical control in techniques like optogenetics [1]. Optogenetics, along with related methods such as chemogenetics and sonogenetics, has revolutionized neuroscience and holds great potential for neuromodulatory therapies targeting neurological disorders [2]. The ability to selectively express opsins in specific neuronal cell types can enable precise and efficient genetic manipulation.
 
 Current methods introduce ectopic proteins by packaging the gene, along with a promoter, into a viral capsid (e.g., AAV6-hSyn-Chrimson) and delivering it into nervous tissue or the bloodstream. Selective expression of opsins can be achieved by utilizing cell-type specific promoters. However, only a few cell-type specific promoters are small enough to be packaged with AAV [3], and some cell types do not have well-characterized promoter sequences [3].
 
