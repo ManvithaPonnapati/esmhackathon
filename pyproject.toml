@@ -1,0 +1,36 @@
+[project]
+authors = [
+    {email = "manvitha@mit.edu", name = "BosSF Team"},
+]
+# Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
+classifiers = [
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python",
+]
+dependencies = [
+    "requests",
+    "tenacity",
+    "torch",
+    "typing-extensions",
+    "esm"
+]
+description = "Redesign foreign proteins for compatibility with neuronal cells"
+dynamic = ["version"]
+name = "neuroforge"
+requires-python = ">=3.11.0rc1"
+
+
+
+[project.urls]
+repository = "https://github.com/ManvithaPonnapati/NeuroForge"
+
+[tool.setuptools.packages.find]
+include = ["forge*"]
+where = [".."]
+
+[tool.setuptools_scm]
+root = ".."
+version_file = "version.py"
