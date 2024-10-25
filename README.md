@@ -34,5 +34,7 @@ We then used [UniProt](uniprot.org) to obtain all the protein sequences of the t
 
 Information about models and designing new TFs can be found on [github][https://github.com/blyncha/evolved24hack/tree/main]
 
-
+1 Deisseroth, K. Optogenetics: 10 years of microbial opsins in neuroscience. Nat Neurosci 18, 1213–1225 (2015). https://doi.org/10.1038/nn.4091
+2 Song J, Patel RV, Sharif M, Ashokan A, Michaelides M. Chemogenetics as a neuromodulatory approach to treating neuropsychiatric diseases and disorders. Mol Ther. 2022 Mar 2;30(3):990-1005. doi: 10.1016/j.ymthe.2021.11.019. Epub 2021 Dec 1. PMID: 34861415; PMCID: PMC8899595.
+3 Reddy AJ, Geng X, Herschl MH, Kolli S, Kumar A, Hsu PD, Levine S, Ioannidis NM. Designing Cell-Type-Specific Promoter Sequences Using Conservative Model-Based Optimization. bioRxiv [Preprint]. 2024 Jun 23:2024.06.23.600232. doi: 10.1101/2024.06.23.600232. PMID: 38948874; PMCID: PMC11213138.
 4 Zhou, Q., Liu, M., Xia, X. et al. A mouse tissue transcription factor atlas. Nat Commun 8, 15089 (2017). https://doi.org/10.1038/ncomms15089
