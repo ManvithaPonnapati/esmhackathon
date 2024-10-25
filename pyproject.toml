@@ -1,6 +1,6 @@
 [project]
 authors = [
-    {email = "manvitha@mit.edu", name = "BosSF Team"},
+    {email = "blyncha@gmail.com", name = "BosSF Team"},
 ]
 # Full list: https://pypi.python.org/pypi?%3Aaction=list_classifiers
 classifiers = [
@@ -19,13 +19,13 @@ dependencies = [
 ]
 description = "Redesign foreign proteins for compatibility with neuronal cells"
 dynamic = ["version"]
-name = "neuroforge"
+name = "evolved24hack"
 requires-python = ">=3.11.0rc1"
 
 
 
 [project.urls]
-repository = "https://github.com/ManvithaPonnapati/NeuroForge"
+repository = "https://github.com/blyncha/evolved24hack"
 
 [tool.setuptools.packages.find]
 include = ["forge*"]
