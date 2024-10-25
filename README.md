@@ -16,3 +16,5 @@ We focused on mice neuronal cells during the hackathon. To enable generation of 
 4. Transcription factors that are known to effect gene expression in neuronal cell types in mice
 
 Obtaining data is required gathering datasets from various studies and databases, and linking them together. We hope this dataset is valuable beyond this hackathon.
+
+![Image Description](gene_trimmed.csv)
