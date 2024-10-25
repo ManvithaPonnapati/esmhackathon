@@ -32,7 +32,7 @@ We utilized [4] to obtain mouse transcription factors by tissue type. And also f
 
 We then used [UniProt](uniprot.org) to obtain all the protein sequences of the transcription factors. The dataset is available [here](https://drive.google.com/drive/folders/1U3-Ar7Nz6EYM4RUOly1jPoilCHqzOT4k?usp=share_link) 
 
-
+Information about models and designing new TFs can be found on [github][https://github.com/blyncha/evolved24hack/tree/main]
 
 
 4 Zhou, Q., Liu, M., Xia, X. et al. A mouse tissue transcription factor atlas. Nat Commun 8, 15089 (2017). https://doi.org/10.1038/ncomms15089
